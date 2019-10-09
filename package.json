@@ -1,0 +1,13 @@
+{
+  "name": "cj-clean-node-module",
+  "version": "0.0.1",
+  "description": "remove node_module from all sub-directories of a directory",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Carlton Joseph",
+  "license": "ISC"
+}
